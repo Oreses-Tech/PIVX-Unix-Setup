@@ -1,3 +1,11 @@
+Setup with Binaries
+===================
+
+Download binaries from below link-
+
+https://github.com/PIVX-Project/PIVX/releases
+
+
 UNIX BUILD NOTES
 ====================
 Some notes on how to build PIVX Core in Unix.
